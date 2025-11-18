@@ -1,0 +1,7 @@
+sentence = input("Enter a sentence: ")
+
+# Check if 'Python' is in the sentence
+if "Python" in sentence:
+    print("The sentence contains the word 'Python'.")
+else:
+    print("The sentence does not contain the word 'Python'.")
